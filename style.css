@@ -57,6 +57,9 @@ h2{
 #webDeveloper{
     border-left: 7px solid blue;
 }
+#expHeader{
+    padding-left: 90px;
+}
 footer p{
     text-align: center;
 }
